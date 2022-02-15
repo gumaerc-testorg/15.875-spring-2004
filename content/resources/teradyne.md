@@ -2,8 +2,13 @@
 content_type: resource
 description: Example of final student presentation. Presentation courtesy of Kapil
   Dev Singh, Torben Thurow, and Truman Bradley. Used with permission.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-875-applications-of-system-dynamics-spring-2004/299da36763cbde29e5f49b3147f7022b_teradyne.pdf
+file: /media/courses/15-875-applications-of-system-dynamics-spring-2004/299da36763cbde29e5f49b3147f7022b_teradyne.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: teradyne.pdf
 uid: 299da367-63cb-de29-e5f4-9b3147f7022b
