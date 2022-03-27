@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ec72d9d5-f62c-4bb6-4259-e0f222d959b1
 resourcetype: Document
 title: teradyne.pdf
 uid: 299da367-63cb-de29-e5f4-9b3147f7022b

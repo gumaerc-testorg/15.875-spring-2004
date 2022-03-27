@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ec72d9d5-f62c-4bb6-4259-e0f222d959b1
 resourcetype: Document
 title: burlington.pdf
 uid: 0cf7683f-9346-3a2d-f5cd-096e6e3ef371

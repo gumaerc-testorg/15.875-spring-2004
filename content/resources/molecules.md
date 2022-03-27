@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d7ee94bd-b6b9-e4e7-a07d-d944d1473f24
 resourcetype: Other
 title: molecules.zip
 uid: 7e40c556-d243-9852-4c4c-5759bfbecd92
