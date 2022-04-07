@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: 31a2c774-40db-9cca-105c-976ddb200135
 ---
@@ -21,7 +22,7 @@ Course Format
 
 This project-based course meets for two 90-minute sessions each week. Prof. James Hines lectures in the first meeting of each week, while keeping the class highly interactive. In the other session, the class splits into two or three groups for "break out sessions" led by Prof. Hines or a teaching assistant. In each of these sessions, students give presentations to the group about the project work they've done the previous week.
 
-At the first class, students form groups of two to four members and are given a list of potential project topics. Each project is sponsored by a company or organization, who will act as the students' client throughout the semester. Once the topic is chosen, the teams follow the "standard method" in completing their projects, which is described step-by-step on the [projects]({{< baseurl >}}/pages/projects) page.
+At the first class, students form groups of two to four members and are given a list of potential project topics. Each project is sponsored by a company or organization, who will act as the students' client throughout the semester. Once the topic is chosen, the teams follow the "standard method" in completing their projects, which is described step-by-step on the {{< resource_link ec72d9d5-f62c-4bb6-4259-e0f222d959b1 "projects" >}} page.
 
 Textbook
 --------
