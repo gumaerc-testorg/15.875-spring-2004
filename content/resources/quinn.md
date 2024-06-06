@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-875-applications-of-system-dynamics-spring-2004/e7ab922baced68d81d0966d58774b238_quinn.pdf
+file_size: 97025
 file_type: application/pdf
 learning_resource_types:
 - Projects

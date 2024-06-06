@@ -6,6 +6,7 @@ description: Lecture Handout 4. In this course student teams report their progre
   their work and accomplishments during the previous week. Topics for each of the
   breakout session presentations are explained in the handouts.
 file: /courses/15-875-applications-of-system-dynamics-spring-2004/524ee8a1f1549e808277d927dca3791a_handout4.pdf
+file_size: 134185
 file_type: application/pdf
 learning_resource_types:
 - Projects
