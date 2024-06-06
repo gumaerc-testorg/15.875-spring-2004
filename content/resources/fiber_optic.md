@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-875-applications-of-system-dynamics-spring-2004/2a7561be05063a121f760db2c59b2986_fiber_optic.pdf
+file_size: 356907
 file_type: application/pdf
 learning_resource_types:
 - Projects
