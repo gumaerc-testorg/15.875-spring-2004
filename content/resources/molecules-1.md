@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-875-applications-of-system-dynamics-spring-2004/854417cbe079d97707d06fbaafbc1d23_molecules.pdf
+file_size: 1251357
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
