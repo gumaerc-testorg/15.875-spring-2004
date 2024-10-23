@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of final student presentation. Presentation courtesy of Timothy
   Quinn and Jenny Rudolph, PhD. Used with permission.
-file: /courses/15-875-applications-of-system-dynamics-spring-2004/f0f9452ecc136115be1e5f2ddfb17440_nemc.pdf
+file: /ol-ocw-studio-app/courses/15-875-applications-of-system-dynamics-spring-2004/f0f9452ecc136115be1e5f2ddfb17440_nemc.pdf
 file_size: 94389
 file_type: application/pdf
 learning_resource_types:
