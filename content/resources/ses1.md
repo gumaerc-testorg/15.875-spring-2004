@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Introductory lecture presentation.
-file: /courses/15-875-applications-of-system-dynamics-spring-2004/80c54a36f2e1d9a7deccf1973f9a7aa7_ses1.pdf
+file: /ol-ocw-studio-app/courses/15-875-applications-of-system-dynamics-spring-2004/80c54a36f2e1d9a7deccf1973f9a7aa7_ses1.pdf
 file_size: 94233
 file_type: application/pdf
 learning_resource_types:
