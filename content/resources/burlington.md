@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of student final presentation. Presentation courtesy of Chen-Wen
   Huang and David Miller. Used with permission.
-file: /ol-ocw-studio-app/courses/15-875-applications-of-system-dynamics-spring-2004/0cf7683f93463a2df5cd096e6e3ef371_burlington.pdf
+file: /courses/15-875-applications-of-system-dynamics-spring-2004/0cf7683f93463a2df5cd096e6e3ef371_burlington.pdf
 file_size: 169593
 file_type: application/pdf
 learning_resource_types:
