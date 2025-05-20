@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of final student presentation. Presentation courtesy of Michael
   Amati, Jose Ardavin, and Jeanette Fershtman. Used with permission.
-file: /ol-ocw-studio-app/courses/15-875-applications-of-system-dynamics-spring-2004/673c9deaf6d38d05169ceea6d938f56c_nigeria.pdf
+file: /courses/15-875-applications-of-system-dynamics-spring-2004/673c9deaf6d38d05169ceea6d938f56c_nigeria.pdf
 file_size: 948366
 file_type: application/pdf
 learning_resource_types:
