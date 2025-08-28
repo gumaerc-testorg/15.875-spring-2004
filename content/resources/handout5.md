@@ -5,7 +5,7 @@ description: Lecture Handout 5. In this course student teams report their progre
   These classes are opportunities for groups to give slideshow presentations explaining
   their work and accomplishments during the previous week. Topics for each of the
   breakout session presentations are explained in the handouts.
-file: /courses/15-875-applications-of-system-dynamics-spring-2004/728c59a52d1601c26c06cbfe8836b9fa_handout5.pdf
+file: /ol-ocw-studio-app/courses/15-875-applications-of-system-dynamics-spring-2004/728c59a52d1601c26c06cbfe8836b9fa_handout5.pdf
 file_size: 139068
 file_type: application/pdf
 learning_resource_types:

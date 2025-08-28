@@ -2,7 +2,7 @@
 content_type: resource
 description: 'The ZIP file contains: 89 .mdl files, 10 .1mdl files, 84 .2mdl files,
   2 .vdf files, 1 .aud file, 1 .0tmp file, 1 .tmp file.'
-file: /courses/15-875-applications-of-system-dynamics-spring-2004/7e40c556d24398524c4c5759bfbecd92_molecules.zip
+file: /ol-ocw-studio-app/courses/15-875-applications-of-system-dynamics-spring-2004/7e40c556d24398524c4c5759bfbecd92_molecules.zip
 file_size: 278227
 file_type: application/zip
 learning_resource_types: []
